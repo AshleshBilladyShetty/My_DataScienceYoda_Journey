@@ -1,4 +1,4 @@
-# MyLeetCodeJourney
+# My_DataScienceYoda_Journey
 Track Leetcode learning progress and also document every thing learned
 
 Link to launch binder on this repository
